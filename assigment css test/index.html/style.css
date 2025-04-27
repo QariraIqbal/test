@@ -190,6 +190,87 @@
     font-size: 14px;
     color: #cccccc;
   }
+  ody {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .testimonial {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .logo {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-text {
+    font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto 10px;
+  }
+  
+  .author {
+    margin-top: 15px;
+    color: #4CAF50;
+  }
+  
+  .customer-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .customer-logos img {
+    width: 40px;
+    height: auto;
+  }
+  
+  .meet-customers {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+  }
+  
+  .blog {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .blog h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-description {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    color: #666;
+  }
+  
+  .blog-posts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  .post {
+    width: 300px;
+    text-align: left;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  }
   
   .social-icons {
     display: flex;
